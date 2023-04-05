@@ -44,7 +44,9 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
+    "@aragon/osx": "^1.2.0",
     "@openzeppelin/contracts": "^4.8.1",
+    "aragon-osx": "https://github.com/aragon/osx",
     "dotenv": "^16.0.3",
     "envfile": "^6.18.0",
     "qrcode": "^1.5.1"
